@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pasta para estudos otavio motores/1.0.0": {
+        "runtime": {
+          "pasta para estudos otavio motores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pasta para estudos otavio motores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\pasta para estudos otavio motores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\pasta para estudos otavio motores.AssemblyInfoInputs.cache
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\pasta para estudos otavio motores.AssemblyInfo.cs
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\pasta para estudos otavio motores.csproj.CoreCompileInputs.cache
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\bin\Debug\net8.0\pasta para estudos otavio motores.exe
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\bin\Debug\net8.0\pasta para estudos otavio motores.deps.json
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\bin\Debug\net8.0\pasta para estudos otavio motores.runtimeconfig.json
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\bin\Debug\net8.0\pasta para estudos otavio motores.dll
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\bin\Debug\net8.0\pasta para estudos otavio motores.pdb
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\pasta para estudos otavio motores.dll
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\refint\pasta para estudos otavio motores.dll
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\pasta para estudos otavio motores.pdb
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\pasta para estudos otavio motores.genruntimeconfig.cache
+D:\Users\20241170150048\Downloads\pasta para estudos otavio motores\obj\Debug\net8.0\ref\pasta para estudos otavio motores.dll
